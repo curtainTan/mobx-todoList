@@ -3,7 +3,9 @@
 
 ![](https://image.gslb.dawnlab.me/330531fde85d66b06ad388bb580c1fcb.png)
 
-预览地址：[直达](https://curtaintan.github.io/mobx-todoList/)
+![](https://image.gslb.dawnlab.me/14ac7263bb6a30480b9833b07e708fb0.png)
+
+预览地址：[直达](https://curtaintan.github.io/mobx-todoList/react/)
 
 **关联文章：**
 
@@ -18,5 +20,4 @@
 [mobx-react 文档](https://github.com/mobxjs/mobx-react)
 
 [mobx-react 官方文档](https://mobx-react.js.org/)
-
 
